@@ -1,4 +1,4 @@
-# Naive-Bayes-Car-Evaluation
+# Naive Bayes: Car Evaluation
 
 This repository contains a **Naive Bayes Classifier** implementation on the **Car Evaluation dataset** using Python and `scikit-learn` to predict car acceptability based on categorical attributes like buying price, maintenance cost, number of doors, capacity, luggage boot size, and safety.
 
